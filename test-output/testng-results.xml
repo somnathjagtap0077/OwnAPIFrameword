@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-22T14:32:20 IST" name="Suite" finished-at="2024-04-22T14:32:28 IST" duration-ms="8276">
+    <groups>
+    </groups>
+    <test started-at="2024-04-22T14:32:20 IST" name="Test" finished-at="2024-04-22T14:32:28 IST" duration-ms="8276">
+      <class name="Api.testCases.UserTest">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:Api.testCases.UserTest@1a942c18]" started-at="2024-04-22T14:32:20 IST" name="setupData" finished-at="2024-04-22T14:32:20 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="PostUserTest()[pri:1, instance:Api.testCases.UserTest@1a942c18]" started-at="2024-04-22T14:32:20 IST" name="PostUserTest" finished-at="2024-04-22T14:32:23 IST" duration-ms="2891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostUserTest -->
+        <test-method signature="getUserTest()[pri:2, instance:Api.testCases.UserTest@1a942c18]" started-at="2024-04-22T14:32:23 IST" name="getUserTest" finished-at="2024-04-22T14:32:24 IST" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserTest -->
+        <test-method signature="updateUserTest()[pri:3, instance:Api.testCases.UserTest@1a942c18]" started-at="2024-04-22T14:32:24 IST" name="updateUserTest" finished-at="2024-04-22T14:32:27 IST" duration-ms="2254" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserTest -->
+        <test-method signature="deteleUserTest()[pri:4, instance:Api.testCases.UserTest@1a942c18]" started-at="2024-04-22T14:32:27 IST" name="deteleUserTest" finished-at="2024-04-22T14:32:28 IST" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deteleUserTest -->
+      </class> <!-- Api.testCases.UserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

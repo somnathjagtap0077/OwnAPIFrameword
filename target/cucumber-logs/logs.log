@@ -1,0 +1,8 @@
+[INFO ] 2024-04-22 14:32:20,855 UserTest.PostUserTest() - ********* Create user********
+[INFO ] 2024-04-22 14:32:23,735 UserTest.PostUserTest() - ********* user is created********
+[INFO ] 2024-04-22 14:32:23,749 UserTest.getUserTest() - ********* Read user********
+[INFO ] 2024-04-22 14:32:24,869 UserTest.getUserTest() - ********* displyaed user********
+[INFO ] 2024-04-22 14:32:24,877 UserTest.updateUserTest() - ********* updating user********
+[INFO ] 2024-04-22 14:32:27,127 UserTest.updateUserTest() - ********* user is updated ********
+[INFO ] 2024-04-22 14:32:27,139 UserTest.deteleUserTest() - ********* Deleting user********
+[INFO ] 2024-04-22 14:32:28,262 UserTest.deteleUserTest() - ********* user is deleted********
